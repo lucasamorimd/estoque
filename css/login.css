@@ -1,0 +1,79 @@
+body{
+    background-color:#212121 ;
+}
+
+    /* label color */
+   .input-field label {
+     color: #fff;/*cor do texto não ativo*/
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+     color: #fff;/*cor do texto ativo*/
+   }
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+     border-bottom: 1px solid #fff;/* borda da linha,cima*/
+     box-shadow: 0 1px 0 0 #fff;/* borda dalinha,baixo*/
+   }
+   /* valid color */
+   .input-field input[type=text].valid {
+     border-bottom: 1px solid #fff;
+     box-shadow: 0 1px 0 0 #fff;
+   }
+   /* invalid color */
+   .input-field input[type=text].invalid {
+     border-bottom: 1px solid #fff;
+     box-shadow: 0 1px 0 0 #fff;
+   }
+   /* icon prefix focus color */
+   .input-field .prefix.active {
+     color: #fff;
+   }
+
+    .input-field input[type=password]:focus + label {
+     color: #fff;
+   }
+   /* label underline focus color */
+   .input-field input[type=password]:focus {
+     border-bottom: 1px solid #fff; /* borda da linha,cima*/
+     box-shadow: 0 1px 0 0 #fff;/* borda dalinha,baixo*/
+   }
+   /* valid color */
+   .input-field input[type=password].valid {
+     border-bottom: 1px solid #e65100;
+     box-shadow: 0 1px 0 0 #e65100;
+   }
+   /* invalid color */
+   .input-field input[type=password].invalid {
+     border-bottom: 1px solid #b71c1c;
+     box-shadow: 0 1px 0 0 #b71c1c;
+   }
+   /* icon prefix focus color */
+   .input-field .prefix.active {
+     color: #000;
+   }
+
+
+/* unvisited link */
+a:link {
+    color: #e65100;
+}
+
+/* visited link */
+a:visited {
+    color: #e65100;
+}
+
+/* mouse over link */
+a:hover {
+    color: #e65100;
+}
+
+/* selected link */
+a:active {
+    color: #e65100;
+}
+
+p{
+    color: #fff;
+}

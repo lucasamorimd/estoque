@@ -1,0 +1,33 @@
+html {font-family: Roboto,GillSans, Calibri, Trebuchet, sans-serif;}	
+  hr{ width: 80%;}
+  p{ font-family: Roboto;}
+  /*nav bar*/
+  .brand-logo{margin-left: 10%;}
+  .brand-logo1{margin-left: 50%}
+  /*resto*/
+  .promo{ margin-left: 0px; width:60%;}/*produto*/ 
+  .painel{width: 20%; float: left;}  
+  .bnr{width: 100%;}
+  .ctr{width: 90%; margin-left: 5%;}
+  .conteudo{width:80%; margin-left: 15%;}
+  .pedidos{width: 80%; margin-left: 13%;}
+  .produto{width: 80%; margin-left: 13%}
+  .detproduto{ margin-top: 2.5%; margin-left: 17%; margin-bottom: 2.5%}
+  .detproduto1{ margin-top: 2.5%; margin-left: 18%;}  
+  .info{margin-top: -5%}
+  .it1{margin-top: 6%;}
+  .it2{margin-left: 70%;}
+  .it3{margin-top: 10%;}
+  .t1{font-weight: bold; font-size: 190%; margin-left: 15%;}
+  .t2{font-weight: bold; font-size: 145%; margin-left: 15%;}
+  .t2c{font-weight: bold; font-size: 145%; margin-left: 35%;}
+  .t3{font-weight: regular; font-size: 115%; margin-left: 15%;}
+  .t4{font-weight: bold; font-size: 145%; margin-left: 30%;}
+
+  /*modal*/
+  .input-field label {color: #e65100;}/*laranjinha*/
+  .input-field input[type=text]:focus + label {color: #e65100;}/*laranjinha*/
+  .input-field input[type=text]:focus {border-bottom: 1px solid #000;box-shadow: 0 1px 0 0 #000;}/*preto*/
+  .input-field input[type=text].valid {border-bottom: 1px solid #33691e;box-shadow: 0 1px 0 0 #33691e;}/*tudo certo*/
+  .input-field input[type=text].invalid {border-bottom: 1px solid #d50000;box-shadow: 0 1px 0 0 #d50000;}/*deu ruim*/  
+  .input-field .prefix.active {color: #000;}
