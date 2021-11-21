@@ -12,11 +12,4 @@ Estarei em breve refatorando este código em breve. </p>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-<h2 align="center">Prints de Telas do Sistema</h2>
-<h3 align="center">Tela de Login </h3>
-<img src="http://prints.lad566.com.br/estoque01.jpg">
-<h3 align="center">Tela Inicial Logada </h3>
-<img src="http://prints.lad566.com.br/estoque02.jpg">
-<h3 align="center">Tela de gerenciamento do estoque </h3>
-<img src="http://prints.lad566.com.br/estoque03.jpg">
 
